@@ -1,5 +1,7 @@
 # synthvscripts
 Scripts for working with Dreamtonic's SynthesizerV application
+
+
 To install an individual script, you can click on the script name, then press the 
 little copy icon in the upper roiight of ther file ("Copy ray contents"), then open a 
 text file and paste the contents there. 
