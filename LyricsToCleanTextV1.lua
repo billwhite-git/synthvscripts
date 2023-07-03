@@ -2,6 +2,8 @@ local SCRIPT_TITLE = 'Copy Clean Lyrics to Clipboard v.1'
 
 --[[
 
+Suggested lua file name: LyricsToCleanTextV1.lua
+
 This will extract the lyrics from the selected notes, purge any "br" or "hh" etc., and put the result on the clipboard. If there ae uppercase letters in the text, it will line break on them. (This presents a problem with "I" and proper names. You'll have to clean those up manually.)
 
 It will put in an extra line break if there is a blank measure between lyrics.
